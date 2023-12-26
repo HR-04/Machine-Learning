@@ -4,21 +4,22 @@ Here I have done List of mini projects on Machine learning with various Algorith
 
 ### The list of Projects
 
-1. Bigmart Sales Prediction
-2. Calories Burnt Prediction
-3. Car Price Prediction
-4. Breast Cancer Classification
-5. Diabetes Prediction
-6. Fake News Prediction
-7. Gold Price Prediction
-8. Heart Disease Prediction
-9. House Price Disease
-10. Loan Status Prediction
-11. Medical Insurance Cost Prediction
-12. Mine VS Rock Prediction
-13. Movie Recommendation System
-14. Parkinson Disease Detection
-15. Spam Mail Prediction
-16. Titanic Survival Prediction
-17. Wine Quality Prediction
+1. Bigmart Sales Prediction **(XGBRegressor)**
+2. Calories Burnt Prediction **(XGBRegressor)**
+3. Car Price Prediction **(Linear Regression)**
+4. Breast Cancer Classification **(Logistic Regression)**
+5. Customer Segmentation **(K_Mean Clustering)**
+6. Diabetes Prediction **(SVM)**
+7. Fake News Prediction **(Logistic Regression)**
+8. Gold Price Prediction **(Random Forest Regressor)**
+9. Heart Disease Prediction **(Logistic Regression)**
+10. House Price Disease **(XGBRegressor)**
+11. Loan Status Prediction **(SVM)**
+12. Medical Insurance Cost Prediction **(Linear Regression)**
+13. Mine VS Rock Prediction **(Logistic Regression)**
+14. Movie Recommendation System
+15. Parkinson Disease Detection **(SVM)**
+16. Spam Mail Prediction **(Logistic Regression)**
+17. Titanic Survival Prediction **(Logistic Regression)**
+18. Wine Quality Prediction **(Random Forest Classifier)**
    
