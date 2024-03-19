@@ -22,4 +22,6 @@ Here I have done List of mini projects on Machine learning with various Algorith
 16. Spam Mail Prediction **(Logistic Regression)**
 17. Titanic Survival Prediction **(Logistic Regression)**
 18. Wine Quality Prediction **(Random Forest Classifier)**
+
+Covered Mostly Every Algorith in Machine Learning.
    
